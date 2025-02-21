@@ -5,3 +5,7 @@ p {
 .Header {
     font-family: 'Dosis';
 }
+
+#MainHeader {
+    background-color: red;
+}
