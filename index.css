@@ -1,11 +1,9 @@
 p {
     font-family: 'Dosis';
+    text-align: left;
 }
 
 .Header {
     font-family: 'Dosis';
-}
-
-#MainHeader {
-    background-color: red;
+    text-align: left;
 }
