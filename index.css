@@ -3,6 +3,10 @@ p {
     text-align: left;
 }
 
+a {
+    text-decoration: none;
+}
+
 .Header {
     font-family: 'Dosis';
     text-align: left;
